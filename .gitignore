@@ -1,0 +1,14 @@
+**/node_modules/
+
+**/venv
+**/.env
+**/__pycache__
+**/staticfiles
+**/.coverage
+**/htmlcov
+**/.pytest_cache
+**/celerybeat-schedule
+**/logs
+**/linting.log
+**/.ruff_cache
+**.DS_Store
